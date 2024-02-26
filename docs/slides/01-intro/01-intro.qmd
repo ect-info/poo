@@ -10,7 +10,7 @@ title-slide-attributes:
 - Prof. Bruno Silva
 - Atendimento:
     - Via email: <bruno.silva@ect.ufrn.br>
-    - Via [Discord](https://discord.gg/fxuwfNKe)
+    - Via [Discord](https://discord.gg/fCBhRHvpAp)
     - Horário para a turma: terças e quintas, das 16:40 às 17:40
 - Áreas de interesse:
     - Processamento de imagens e visão computacional
@@ -168,5 +168,3 @@ Todas as aulas programadas estão cadastradas no SIGAA
 
 Em seguida, verifique se o terminal Python está
 funcionando no seu computador
-
----
