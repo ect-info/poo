@@ -13,15 +13,15 @@
 
 Notas de aula e exercícios: [02-Python-Basico.ipynb](./slides/02-python-basico/02-Python-Basico.ipynb)
 
-<!--
-
-## [28/03 - Classes, objetos e abstração](./slides/03-classes-objetos/03-classes-objetos.html)
+## [04/03 - Classes, objetos e abstração](./slides/03-classes-objetos/03-classes-objetos.html)
  - Classes, atributos e métodos
  - Objetos
  - Classes em Python
- - Pilar de POO 1: abstração
+ - **1o. pilar de POO**: abstração
 
 Notas de aula e exercícios: [03-Classes-Objetos.ipynb](./slides/03-classes-objetos/03-Classes-Objetos.ipynb)
+
+<!--
 
 ## [04/04 - Encapsulamento](./slides/04-encapsulamento/04-encapsulamento.html)
  - Encapsulamento
