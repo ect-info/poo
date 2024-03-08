@@ -21,16 +21,14 @@ Notas de aula e exercícios: [02-Python-Basico.ipynb](./slides/02-python-basico/
 
 Notas de aula e exercícios: [03-Classes-Objetos.ipynb](./slides/03-classes-objetos/03-Classes-Objetos.ipynb)
 
-<!--
-
-## [04/04 - Encapsulamento](./slides/04-encapsulamento/04-encapsulamento.html)
- - Encapsulamento
- - Modificadores de acesso
- - Pilar de POO 2: encapsulamento
+## [11/03 - Encapsulamento](./slides/04-encapsulamento/04-encapsulamento.html)
+ - **2o. pilar de POO**: encapsulamento
+    - Modificadores de acesso
     - Setters e getters
-    - Decorador `@property`
 
 Notas de aula e exercícios: [04-Encapsulamento.ipynb](./slides/04-encapsulamento/04-Encapsulamento.ipynb)
+
+<!--
 
 ## [11/04 - Biblioteca Padrão Python](./slides/05-biblioteca-padrao/05-biblioteca-padrao.html)
  - Listas
