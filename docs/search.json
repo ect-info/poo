@@ -453,5 +453,40 @@
     "title": "Encapsulamento",
     "section": "Encapsulamento em Python",
     "text": "Encapsulamento em Python\n04-Encapsulamento\n\n\n\nECT2504 - Programação Orientada a Objetos"
+  },
+  {
+    "objectID": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#revisão",
+    "href": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#revisão",
+    "title": "Biblioteca Padrão Python",
+    "section": "Revisão",
+    "text": "Revisão\nEncapsulamento\n\nProtege o acesso direto aos atributos de um objeto\nEsconde como funcionam as rotinas (métodos) da classe\nAs classes devem expôr o mínimo necessário para serem utilizadas"
+  },
+  {
+    "objectID": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#revisão-1",
+    "href": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#revisão-1",
+    "title": "Biblioteca Padrão Python",
+    "section": "Revisão",
+    "text": "Revisão\nEncapsulamento\n\nAo chamar um método, podemos ignorar como ele foi implementado\nOs usuários da classe só devem acessar os atributos/métodos públicos da classe (interface pública)"
+  },
+  {
+    "objectID": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#biblioteca-padrão",
+    "href": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#biblioteca-padrão",
+    "title": "Biblioteca Padrão Python",
+    "section": "Biblioteca Padrão",
+    "text": "Biblioteca Padrão\nÉ comum que as linguagens orientadas a objeto forneçam uma biblioteca padrão (standard library):\n\nFornecem classes para auxiliar o programador\nEstas classes possuem uma interface pública (conjunto de métodos) bem definida"
+  },
+  {
+    "objectID": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#objetivos",
+    "href": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#objetivos",
+    "title": "Biblioteca Padrão Python",
+    "section": "Objetivos",
+    "text": "Objetivos\nNesta aula, serão mostradas as seguintes classes da biblioteca padrão de Python:\n\ntuple (pares ordenados, tuplas, etc)\nlist (listas de elementos)\nstr (strings)\ndict (dicionários)"
+  },
+  {
+    "objectID": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#estruturas-de-dados-e-biblioteca-padrão",
+    "href": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#estruturas-de-dados-e-biblioteca-padrão",
+    "title": "Biblioteca Padrão Python",
+    "section": "Estruturas de Dados e Biblioteca Padrão",
+    "text": "Estruturas de Dados e Biblioteca Padrão\n05-Biblioteca-Padrão\n\n\n\nECT2504 - Programação Orientada a Objetos"
   }
 ]
