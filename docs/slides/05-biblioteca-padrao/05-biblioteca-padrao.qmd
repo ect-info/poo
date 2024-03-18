@@ -9,7 +9,7 @@ title-slide-attributes:
 ## Revisão
 #### Encapsulamento
 
-- *Protege** o acesso direto aos atributos de um objeto
+- *Protege* o acesso direto aos atributos de um objeto
 - *Esconde* como funcionam as rotinas (métodos) da classe
 - As classes devem __expôr o mínimo necessário__ para serem utilizadas
 
