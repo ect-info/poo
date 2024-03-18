@@ -459,14 +459,14 @@
     "href": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#revisão",
     "title": "Biblioteca Padrão Python",
     "section": "Revisão",
-    "text": "Revisão\nEncapsulamento\n\nProtege o acesso direto aos atributos de um objeto\nEsconde como funcionam as rotinas (métodos) da classe\nAs classes devem expôr o mínimo necessário para serem utilizadas"
+    "text": "Revisão\nEncapsulamento\n\n*Protege** o acesso direto aos atributos de um objeto\nEsconde como funcionam as rotinas (métodos) da classe\nAs classes devem expôr o mínimo necessário para serem utilizadas"
   },
   {
     "objectID": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#revisão-1",
     "href": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#revisão-1",
     "title": "Biblioteca Padrão Python",
     "section": "Revisão",
-    "text": "Revisão\nEncapsulamento\n\nAo chamar um método, podemos ignorar como ele foi implementado\nOs usuários da classe só devem acessar os atributos/métodos públicos da classe (interface pública)"
+    "text": "Revisão\nEncapsulamento\n\nOs usuários da classe só devem acessar os atributos/métodos públicos da classe (interface pública)\n\nBoa prática: utilizar atributos privados e implementar getters/setters para acessá-los\nPrática pythônica: utilizar decoradores"
   },
   {
     "objectID": "slides/05-biblioteca-padrao/05-biblioteca-padrao.html#biblioteca-padrão",

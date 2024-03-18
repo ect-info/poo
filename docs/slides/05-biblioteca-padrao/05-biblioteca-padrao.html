@@ -343,7 +343,7 @@ Prof.&nbsp;Bruno Silva
 <h2>Revisão</h2>
 <h4 id="encapsulamento">Encapsulamento</h4>
 <ul>
-<li><strong>Protege</strong> o acesso direto aos atributos de um objeto</li>
+<li>*Protege** o acesso direto aos atributos de um objeto</li>
 <li><em>Esconde</em> como funcionam as rotinas (métodos) da classe</li>
 <li>As classes devem <strong>expôr o mínimo necessário</strong> para serem utilizadas</li>
 </ul>
@@ -352,8 +352,11 @@ Prof.&nbsp;Bruno Silva
 <h2>Revisão</h2>
 <h4 id="encapsulamento-1">Encapsulamento</h4>
 <ul>
-<li>Ao chamar um método, podemos ignorar como ele foi implementado</li>
-<li>Os usuários da classe só devem acessar os atributos/métodos <em>públicos</em> da classe (interface pública)</li>
+<li>Os usuários da classe só devem acessar os atributos/métodos <em>públicos</em> da classe (interface pública)
+<ul>
+<li>Boa prática: utilizar atributos privados e implementar <em>getters/setters</em> para acessá-los</li>
+<li>Prática pythônica: utilizar decoradores</li>
+</ul></li>
 </ul>
 </section>
 <section id="biblioteca-padrão" class="slide level2">

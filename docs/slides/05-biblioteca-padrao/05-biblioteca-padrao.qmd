@@ -9,7 +9,7 @@ title-slide-attributes:
 ## Revisão
 #### Encapsulamento
 
-- __Protege__ o acesso direto aos atributos de um objeto
+- *Protege** o acesso direto aos atributos de um objeto
 - *Esconde* como funcionam as rotinas (métodos) da classe
 - As classes devem __expôr o mínimo necessário__ para serem utilizadas
 
@@ -18,8 +18,9 @@ title-slide-attributes:
 ## Revisão
 #### Encapsulamento
 
-- Ao chamar um método, podemos ignorar como ele foi implementado
 - Os usuários da classe só devem acessar os atributos/métodos *públicos* da classe (interface pública)
+  - Boa prática: utilizar atributos privados e implementar *getters/setters* para acessá-los
+  - Prática pythônica: utilizar decoradores
 
 ---
 
