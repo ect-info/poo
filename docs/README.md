@@ -35,9 +35,7 @@ Notas de aula e exercícios: [04-Encapsulamento.ipynb](./slides/04-encapsulament
 
 Notas de aula e exercícios: [05-Biblioteca-Padrao.ipynb](./slides/05-biblioteca-padrao/05-Biblioteca-Padrao.ipynb)
 
-<!--
-
-## [18/04 - Relações entre Classes](./slides/06-relacoes/06-relacoes.html)
+## [25/03 - Relações entre Classes](./slides/06-relacoes/06-relacoes.html)
  - Notação UML
  - Relações entre classe
     - Associação
@@ -45,6 +43,8 @@ Notas de aula e exercícios: [05-Biblioteca-Padrao.ipynb](./slides/05-biblioteca
     - Composição
 
 Notas de aula e exercícios [06-Relacoes.ipynb](./slides/06-relacoes/06-Relacoes.ipynb)
+
+<!--
 
 ## [25/04 - Módulos em Python (Jupyter notebook)](./slides/07-modulos/07-Modulos.ipynb)
 
