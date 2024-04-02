@@ -44,12 +44,12 @@ Notas de aula e exercícios: [05-Biblioteca-Padrao.ipynb](./slides/05-biblioteca
 
 Notas de aula e exercícios [06-Relacoes.ipynb](./slides/06-relacoes/06-Relacoes.ipynb)
 
+## [03/04 - Herança](./slides/07-heranca/07-heranca.html)
+ - Pilar de POO 3: herança
+
 <!--
 
 ## [25/04 - Módulos em Python (Jupyter notebook)](./slides/07-modulos/07-Modulos.ipynb)
-
-## [02/05 - Herança](./slides/08-heranca/08-heranca.html)
- - Pilar de POO 3: herança
 
 Notas de aula e exercícios [08-Heranca.ipynb](./slides/08-heranca/08-Heranca.ipynb)
 
