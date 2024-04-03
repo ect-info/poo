@@ -47,11 +47,11 @@ Notas de aula e exercícios [06-Relacoes.ipynb](./slides/06-relacoes/06-Relacoes
 ## [03/04 - Herança](./slides/07-heranca/07-heranca.html)
  - Pilar de POO 3: herança
 
+Notas de aula e exercícios [07-Heranca.ipynb](./slides/07-heranca/07-Heranca.ipynb)
+
 <!--
 
 ## [25/04 - Módulos em Python (Jupyter notebook)](./slides/07-modulos/07-Modulos.ipynb)
-
-Notas de aula e exercícios [08-Heranca.ipynb](./slides/08-heranca/08-Heranca.ipynb)
 
 ## [09/05 - Métodos/Atributos de classe](./slides/09-membros-static/09-membros-static.html)
  - Métodos e atributos de classe
