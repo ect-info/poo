@@ -49,20 +49,20 @@ Notas de aula e exercícios [06-Relacoes.ipynb](./slides/06-relacoes/06-Relacoes
 
 Notas de aula e exercícios [07-Heranca.ipynb](./slides/07-heranca/07-Heranca.ipynb)
 
-<!--
-
-## [25/04 - Módulos em Python (Jupyter notebook)](./slides/07-modulos/07-Modulos.ipynb)
-
-## [09/05 - Métodos/Atributos de classe](./slides/09-membros-static/09-membros-static.html)
- - Métodos e atributos de classe
-
-Notas de aula e exercícios [09-Membros-Static.ipynb](./slides//09-membros-static/09-Membros-Static.ipynb)
-
-## [09/05 - Classes abstratas](./slides/10-classes-abstratas/10-classes-abstratas.html)
+## [08/04 - Classes abstratas](./slides/08-classes-abstratas/08-classes-abstratas.html)
  - Classes abstratas
  - Métodos abstratos
 
-Notas de aula e exercícios [10-Classes-Abstratas.ipynb](./slides/10-classes-abstratas/10-Classes-Abstratas.ipynb)
+Notas de aula e exercícios [08-Classes-Abstratas.ipynb](./slides/08-classes-abstratas/08-Classes-Abstratas.ipynb)
+
+## [10/04 - Métodos/Atributos de classe](./slides/08-membros-static/08-membros-static.html)
+ - Métodos e atributos de classe
+
+Notas de aula e exercícios [08-Membros-Static.ipynb](./slides/08-membros-static/08-Membros-Static.ipynb)
+
+<!--
+
+## [25/04 - Módulos em Python (Jupyter notebook)](./slides/07-modulos/07-Modulos.ipynb)
 
 ## [16/05 - Polimorfismo](./slides/11-polimorfismo/11-polimorfismo.html)
  - Pilar de POO 4: Polimorfismo
