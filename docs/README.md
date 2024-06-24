@@ -62,7 +62,11 @@ Notas de aula e exercícios [08-Classes-Abstratas.ipynb](./slides/08-classes-abs
 
 ## [15/04 - Módulos em Python (Jupyter notebook)](./slides/09-modulos/09-Modulos.ipynb)
 
-## [17/04 - Polimorfismo](./slides/10-polimorfismo/10-polimorfismo.html)
+## 17/04 - 21/06: greve
+
+## [24/06 - Revisão de conteúdo (Jupyter notebook)](./slides/poo_conceitos/poo_conceitos.ipynb)
+
+## [01/07 - Polimorfismo](./slides/10-polimorfismo/10-polimorfismo.html)
  - Pilar de POO 4: Polimorfismo
  - *Duck typing* e polimorfismo em Python
 
