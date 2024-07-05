@@ -53,6 +53,6 @@ seja __concreta__
 
 ## Herança Múltipla
 
-O [Jupyter Notebook](12-Heranca-Multipla.ipynb)
+O [Jupyter Notebook](11-Heranca-Multipla.ipynb)
 contém exemplos práticos e problemas que podem
 acontecer com herança múltipla
