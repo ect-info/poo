@@ -79,9 +79,9 @@ Notas de aula e exercícios [10-Polimorfismo.ipynb](./slides/10-polimorfismo/10-
 
 Notas de aula e exercícios [11-Heranca-Multipla.ipynb](./slides/11-heranca-multipla/11-Heranca-Multipla.ipynb)
 
-<!--
+## [15/07 - Documentação em Python (Jupyter notebook)](./slides/12-documentacao/12-Documentacao.ipynb)
 
-## [30/05 - Documentação em Python (Jupyter notebook)](./slides/13-documentacao/13-Documentacao.ipynb)
+<!--
 
 ## [06/06 - Erros e Exceções](./slides/14-excecoes/14-excecoes.html)
  - Erros e exceções
