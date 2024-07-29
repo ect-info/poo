@@ -88,17 +88,18 @@ Notas de aula e exercícios [11-Heranca-Multipla.ipynb](./slides/11-heranca-mult
 
 Notas de aula e exercícios [13-Excecoes.ipynb](./slides/13-excecoes/13-Excecoes.ipynb)
 
-<!--
-
-## [13/06 - Interfaces Gráficas](./slides/15-gui/15-gui.html)
+## [29/07 - Interfaces Gráficas](./slides/14-gui/14-gui.html)
 - Interfaces gráficas em Python com Tkinter
 - Componentes (widgets):
    - *label*
    - *frame*
    - *entry*
    - *button*
+   - Função de *callback*
 
 Notas de aula e exercícios [15-GUI.ipynb](./slides/15-gui/15-GUI.ipynb)
+
+<!--
 
 ## [20/06 - GUI 2 (Jupyter notebook)](./slides/16-gui2/16-GUI2.ipynb)
 
