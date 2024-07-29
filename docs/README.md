@@ -97,7 +97,7 @@ Notas de aula e exercícios [13-Excecoes.ipynb](./slides/13-excecoes/13-Excecoes
    - *button*
    - Função de *callback*
 
-Notas de aula e exercícios [15-GUI.ipynb](./slides/15-gui/15-GUI.ipynb)
+Notas de aula e exercícios [14-GUI.ipynb](./slides/14-gui/14-GUI.ipynb)
 
 <!--
 
