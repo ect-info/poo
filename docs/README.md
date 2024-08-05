@@ -99,11 +99,11 @@ Notas de aula e exercícios [13-Excecoes.ipynb](./slides/13-excecoes/13-Excecoes
 
 Notas de aula e exercícios [14-GUI.ipynb](./slides/14-gui/14-GUI.ipynb)
 
+## [05/08 - Padrão de Projeto MVC (Jupyter notebook)](./slides/15-mvc/15-MVC.ipynb)
+
 <!--
 
 ## [20/06 - GUI 2 (Jupyter notebook)](./slides/16-gui2/16-GUI2.ipynb)
-
-## [27/06 - Padrão de Projeto MVC (Jupyter notebook)](./slides/17-mvc/17-MVC.ipynb)
 
 ## 04/07 - Projeto Final I: Ver SIGAA
 
